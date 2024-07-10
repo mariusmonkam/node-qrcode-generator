@@ -1,0 +1,39 @@
+{
+  "name": "node-qrcode-generator",
+  "version": "1.0.3",
+  "description": "A lightweight and versatile Node.js package for generating QR codes from URLs. It offers customizable options and a clean API for effortless integration into your projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariusmonkam/node-qrcode-generator.git"
+  },
+  "keywords": [
+    "qr code",
+    "qr code generator",
+    "node js",
+    "javascript",
+    "url to qr",
+    "qr creation",
+    "qr image generation",
+    "node package",
+    "npm package",
+    "qr library",
+    "error correction",
+    "customization",
+    "data uri",
+    "buffer"
+  ],
+  "author": "Marius Monkam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariusmonkam/node-qrcode-generator/issues"
+  },
+  "homepage": "https://github.com/mariusmonkam/node-qrcode-generator#readme",
+  "devDependencies": {
+    "qrcode": "^1.5.3",
+    "url-validator": "^2.0.3"
+  }
+}
