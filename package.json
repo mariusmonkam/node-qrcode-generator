@@ -1,6 +1,6 @@
 {
   "name": "node-qrcode-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight and versatile Node.js package for generating QR codes from URLs. It offers customizable options and a clean API for effortless integration into your projects.",
   "main": "index.js",
   "scripts": {

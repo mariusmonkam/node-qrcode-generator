@@ -1,4 +1,4 @@
-# node-qr-code-generator
+# node-qrcode-generator
 
 This npm package facilitates easy generation of QR codes from URLs and allows you to save them as PNG images. Additionally, it offers an option to generate HTML for displaying the QR code on a web page.
 
@@ -7,7 +7,7 @@ This npm package facilitates easy generation of QR codes from URLs and allows yo
 Install the package via npm:
 
 ```bash
-npm install node-qr-code-generator
+npm install node-qrcode-generator
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install node-qr-code-generator
 1. **Import the package:**
 
    ```javascript
-   const QrGeneratorModule = require("node-qr-code-generator");
+   const QrGeneratorModule = require("node-qrcode-generator");
    ```
 
 2. **Generate QR code:**
